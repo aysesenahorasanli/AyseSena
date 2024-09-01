@@ -1,6 +1,6 @@
 # Hi there, I'm AyseSena 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ena&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysesenahorasanli&layout=compact" />
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=5ena&show_icons=true&theme=radical" />
